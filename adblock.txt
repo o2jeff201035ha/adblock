@@ -1,7 +1,2 @@
-###############################[INSTALL]#################################
-# Update your dnsmasq.conf file and add the following lines:
-#  conf-file=/path/to/domains.txt
-#  addn-hosts=/path/to/hostnames.txt
-################################[SOURCES]################################
 ＃ -  https://easylist-downloads.adblockplus.org/easylist.txt
 ＃ -  https://easylist-downloads.adblockplus.org/easylistchina.txt
